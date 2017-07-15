@@ -736,6 +736,12 @@ blockquote {
 .second_time_service {background-color: #fdfdfd;text-align: left;}
 .first_time_service span {color: #2aa615; font-weight: bold;  font-size: 18px;}
 .second_time_service span {color: #2aa615; font-weight: bold;  font-size: 18px;}
+.name_schelude {background-color: rgb(47, 126, 245); border-bottom: 2px solid #fff; font-size: 1.2em; color: #fff; padding: 10px;  width: 25%; text-align: left;}
+.time_schelude {  border-bottom: 2px solid #fff;  color: #000;  padding: 10px;  font-size: 1.2em;  text-align: center;}
+.name_schelude_free {background-color: rgb(240, 0, 0); border-bottom: 2px solid #fff; font-size: 1.2em; color: #fff; padding: 10px;  width: 25%; text-align: left;}
+.name_schelude_int {background-color: rgb(240, 150, 0); border-bottom: 2px solid #fff; font-size: 1.2em; color: #fff; padding: 10px;  width: 25%; text-align: left;}
+.first_time_schelude {background-color: #f5f5f5;text-align: left;}
+.second_time_schelude {background-color: #fdfdfd;text-align: left;}
 .navbar-default {background-color: white;  border-bottom: 1px solid rgb(156, 156, 156);}
 .navbar-default .navbar-nav>li>a {color: #000;}
 .clear {clear: both;}
